@@ -1,3 +1,4 @@
 # Games
 A website where games are portrayed like never before
-we are planning to be the bbest in the gaming industry
+
+we are planning to be the best in the gaming industry
